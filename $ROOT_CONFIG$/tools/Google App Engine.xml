@@ -1,0 +1,9 @@
+<toolSet name="Google App Engine">
+  <tool name="Deploy" description="Deploy to Google App Engine" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/appengine-java-sdk-1.7.4/bin/appcfg.sh" />
+      <option name="PARAMETERS" value="--enable_jar_splitting --no_cookies update $ProjectFileDir$/out/artifacts/$ProjectName$_Web_exploded" />
+      <option name="WORKING_DIRECTORY" value="/Applications/appengine-java-sdk-1.7.4/bin" />
+    </exec>
+  </tool>
+</toolSet>

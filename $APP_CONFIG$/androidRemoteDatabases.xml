@@ -1,0 +1,100 @@
+<application>
+  <component name="AndroidRemoteDataBaseManager">
+    <databases>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_HT363S900411" />
+            <option name="packageName" value="jp.radiocat.shirasagi" />
+            <option name="databaseName" value="shirasagi" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1393729236" />
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_SHTBE041658" />
+            <option name="packageName" value="jp.radiocat.example.ormExample" />
+            <option name="databaseName" value="ormExample.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1386486355" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/git/intellij/ormExample" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_SHTBE041658" />
+            <option name="packageName" value="com.example.ormExample" />
+            <option name="databaseName" value="ormExample.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1386177194" />
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_HT363S900411" />
+            <option name="packageName" value="jp.radiocat.hiroshima" />
+            <option name="databaseName" value="hiroshima.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1421273861" />
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_015d3220142c1c0c" />
+            <option name="packageName" value="jp.radiocat.example.ormExample" />
+            <option name="databaseName" value="ormExample.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1386473644" />
+            <option name="referringProjects">
+              <set>
+                <option value="$USER_HOME$/git/intellij/ormExample" />
+              </set>
+            </option>
+          </db-info>
+        </value>
+      </entry>
+      <entry>
+        <key>
+          <db-key>
+            <option name="deviceId" value="SERIAL_NUMBER_CB5A1WRTS2" />
+            <option name="packageName" value="jp.radiocat.hiroshima" />
+            <option name="databaseName" value="hiroshima.db" />
+          </db-key>
+        </key>
+        <value>
+          <db-info>
+            <option name="modificationTime" value="1437751526" />
+          </db-info>
+        </value>
+      </entry>
+    </databases>
+  </component>
+</application>
